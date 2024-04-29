@@ -19,7 +19,7 @@ git clone
 Para navegar al directorio del proyecto, se debe correr el siguiente comando en la terminal:
 
 ```bash
-cd intro-poo-ejemplo-perros
+cd prg4-intro-poo-perros
 ```
 
 ## Ejecutar el programa
